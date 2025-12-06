@@ -1,0 +1,5 @@
+{
+  "name": "TiviWeb Player",
+  "description": "A premium, web-based IPTV player interface inspired by TiviMate, featuring M3U playlist support, EPG visualization, and AI-powered program insights.",
+  "requestFramePermissions": []
+}
